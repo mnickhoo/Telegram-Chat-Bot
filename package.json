@@ -1,0 +1,29 @@
+{
+  "name": "chatid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "app.js",
+    "start": "app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mnickhoo/Telegram-Chat-Bot.git"
+  },
+  "keywords": [
+    "ChatId",
+    "Telegram",
+    "Bot"
+  ],
+  "author": "Mehdi Nickhoo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mnickhoo/Telegram-Chat-Bot/issues"
+  },
+  "homepage": "https://github.com/mnickhoo/Telegram-Chat-Bot#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "node-telegram-bot-api": "^0.50.0"
+  }
+}
